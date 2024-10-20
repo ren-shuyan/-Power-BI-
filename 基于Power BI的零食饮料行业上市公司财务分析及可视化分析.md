@@ -238,7 +238,7 @@
 
 Python代码：
 
-![文本 描述已自动生成](media/2c4e5988855d71783123cdcdb66cafec.png)
+![图片4](图片4.png)
 
 将\<your-api-key\>替换为API密钥，将\<your-deployment-id\>替换为模型部署ID。Azure OpenAI会返回一个包含生成内容的响应，可以根据需要进一步处理这个结果，提取关键信息。根据初步结果，调整输入文本和提示词，以获得更准确的分析结果，使用Azure OpenAI Studio进行试验和优化。将这个过程集成，以便自动化地分析图表内容并输出结果。
 
